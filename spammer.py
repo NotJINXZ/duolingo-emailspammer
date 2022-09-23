@@ -1,3 +1,5 @@
+# Made by https://github.com/haze-1337
+
 import requests, os, uuid, secrets, threading, time
 os.system('title DUOLINGO SPAMMER / 0 CREATED' )
 
@@ -50,3 +52,5 @@ class Duolingo:
             
 email = input("EMAIL : ")
 Duolingo(email).start()
+
+# Made by https://github.com/haze-1337
